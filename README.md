@@ -34,7 +34,7 @@ Output: Immediate voice and console responses
 -Setup & Installation
 1. Clone the Project
 bash
-git clone https://github.com/YOURUSERNAME/jarvis-ai-assistant.git
+git clone https://github.com/HariniTechie/jarvis-ai-assistant.git
 cd jarvis-ai-assistant
 
 2. Create a Virtual Environment (Recommended)
